@@ -78,3 +78,5 @@ Responsibilities of a pastry baker
 [Telegram](https://t.me/malt_sun)
 
 ---
+
+Copyright Solodkova Polina
