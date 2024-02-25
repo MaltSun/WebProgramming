@@ -6,7 +6,7 @@
 
 ## Solodkova Polina Victorovna
 
-I'm 19 years old. I graduated from the Mogilev City Gymnasium No. 1, now I am studying at the Belarusian-Russian University in the 2nd year. I am ready to learn new things and practice my existing skills. My main qualities are responsibility, stress tolerance and hard work
+_I'm 19 years old. I graduated from the Mogilev City Gymnasium No. 1, now I am studying at the Belarusian-Russian University in the 2nd year. I am ready to learn new things and practice my existing skills. My main qualities are responsibility, stress tolerance and hard work_
 
 ---
 
@@ -20,15 +20,15 @@ I'm 19 years old. I graduated from the Mogilev City Gymnasium No. 1, now I am st
 
 ## Work experience
 
-### Transport Company "ВальдВикТранс"
+___Transport Company "ВальдВикТранс"___
 
-June 2023 - August 2023
+_June 2023 - August 2023_
 
 Responsibilities of the logistician and dispatcher
 
-### Cafe-bakery "Пирогова"
+___Cafe-bakery "Пирогова"___
 
-June 2023 - January 2024
+_June 2023 - January 2024_
 
 Responsibilities of a pastry baker
 
@@ -53,15 +53,15 @@ Responsibilities of a pastry baker
 
 ```
 
-### Wedding cake
+___Wedding cake___
 
 ![Wedding cake](photo_2024-02-18_22-02-18.jpg)
 
-### Bento-cake
+___Bento-cake___
 
 ![Bento-cake](photo_2024-02-18_22-02-16.jpg)
 
-### Children's cake
+___Children's cake___
 
 ![Children's cake](photo_2024-02-18_22-02-15.jpg)
 
@@ -71,12 +71,12 @@ Responsibilities of a pastry baker
 
 ## Contacts
 
-[Send e-mail](mailto:polina.soldkova507@gmail.com)
+_[Send e-mail](mailto:polina.soldkova507@gmail.com)_
 
-[My VK](https://vk.com/solodkova1999)
+_[My VK](https://vk.com/solodkova1999)_
 
-[Telegram](https://t.me/malt_sun)
+_[Telegram](https://t.me/malt_sun)_
 
 ---
 
-Copyright Solodkova Polina
+_Copyright Solodkova Polina_
