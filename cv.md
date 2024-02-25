@@ -66,3 +66,15 @@
 ![Детский торт](photo_2024-02-18_22-02-15.jpg)
 
 [Смотреть больше](https://www.instagram.com/malt_cake?igsh=cW1wb3QxbHI1Z3Bt)
+
+---
+
+## Contacts
+
+[Send e-mail](mailto:polina.soldkova507@gmail.com)
+
+[My VK](https://vk.com/solodkova1999)
+
+[Telegram](https://t.me/malt_sun)
+
+---
