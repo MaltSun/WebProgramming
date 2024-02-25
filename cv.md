@@ -4,37 +4,37 @@
 
 ![my photo](photo_2024-02-25_15-55-45.jpg)
 
-## Солодкова Полина Викторовна
+## Solodkova Polina Victorovna
 
-Мне 19 лет. Закончила ГУО "Могилевская городская гимназия №1", сейчас обучаюсь в Белорусско-Российском университет на 2 курсе. Готова обучаться новому и практиковать уже имеющиеся навыки. Мои основные качества: ответсвенность, стрессоустойчивость и трудолюбие
-
----
-
-## Навыки
-
-- Владение языками: русский(родной), белорусский(родной), английский
-- Уровень английского: В1
-- Языки программирования: C#, SQL, C++, Java
+I'm 19 years old. I graduated from the Mogilev City Gymnasium No. 1, now I am studying at the Belarusian-Russian University in the 2nd year. I am ready to learn new things and practice my existing skills. My main qualities are responsibility, stress tolerance and hard work
 
 ---
 
-## Опыт работы
+## Skills
 
-### Транспортная компания "ВальдВикТранс"
-
-Июнь 2023 - Август 2023
-
-Обязанности логиста и диспетчера
-
-### ИП "Пирогова"
-
-Июнь 2023 - январь 2024
-
-Обязанности пекаря-кондитера
+- Languages spoken: Russian (native), Belarusian (native), English
+- English level: B1
+- Programming languages: C#, SQL, C++, Java
 
 ---
 
-## Мои работы
+## Work experience
+
+### Transport Company "ВальдВикТранс"
+
+June 2023 - August 2023
+
+Responsibilities of the logistician and dispatcher
+
+### Cafe-bakery "Пирогова"
+
+June 2023 - January 2024
+
+Responsibilities of a pastry baker
+
+---
+
+## Portfolio
 
 ```
 <section id="experience">
@@ -53,19 +53,19 @@
 
 ```
 
-### Свадебный торт
+### Wedding cake
 
-![Свадебный торт](photo_2024-02-18_22-02-18.jpg)
+![Wedding cake](photo_2024-02-18_22-02-18.jpg)
 
-### Бенто-торт
+### Bento-cake
 
-![Бенто-торт](photo_2024-02-18_22-02-16.jpg)
+![Bento-cake](photo_2024-02-18_22-02-16.jpg)
 
-### Детский торт
+### Children's cake
 
-![Детский торт](photo_2024-02-18_22-02-15.jpg)
+![Children's cake](photo_2024-02-18_22-02-15.jpg)
 
-[Смотреть больше](https://www.instagram.com/malt_cake?igsh=cW1wb3QxbHI1Z3Bt)
+[See more](https://www.instagram.com/malt_cake?igsh=cW1wb3QxbHI1Z3Bt)
 
 ---
 
