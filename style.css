@@ -1,0 +1,18 @@
+.header-container {
+  width: 90rem;
+  height: 4.27344rem;
+  flex-shrink: 0;
+}
+.navigation {
+  display: flex;
+}
+
+li {
+  list-style-type: none;
+  padding: 0.94rem, 2.41rem, 1.31rem, 1.15rem;
+}
+
+.logo {
+  margin: 57rem, 81.9rem, 0.57rem, 1.81rem;
+  border-color: blue;
+}
